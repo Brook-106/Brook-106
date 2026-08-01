@@ -10,6 +10,11 @@
   </a>
 </p>
 
+<!-- DYNAMIC QUOTES -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Tech Quote" />
+</p>
+
 <!-- PREMIUM BADGES -->
 <p align="center">
   <a href="https://tryhackme.com/p/Adithyan.MP" target="_blank">
@@ -20,6 +25,13 @@
   </a>
   <a href="https://www.linkedin.com/in/adithyan-mp-4o4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Adithyan_M_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<!-- DYNAMIC TRYHACKME CARD -->
+<p align="center">
+  <a href="https://tryhackme.com/p/Adithyan.MP" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Adithyan.MP.png" alt="TryHackMe Dynamic Badge" />
   </a>
 </p>
 
