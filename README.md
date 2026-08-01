@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://brook-106.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=SOC+Monitoring+%26+Log+Analysis;Network+Security+%26+Traffic+Analysis;Threat+Detection+%26+Incident+Response;Detect.+Analyze.+Protect." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=SOC+Monitoring+%26+Log+Analysis;Network+Security+%26+Traffic+Analysis;Threat+Detection+%26+Incident+Response;Detect.+Analyze.+Protect." alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,11 +23,9 @@
   </a>
 </p>
 
-<!-- WORKING DYNAMIC TRYHACKME BADGE -->
+<!-- GITHUB TROPHIES (MATRIX THEME) -->
 <p align="center">
-  <a href="https://tryhackme.com/p/Adithyan.MP" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Adithyan.MP.png" onerror="this.src='https://img.shields.io/badge/TryHackMe-Profile_Active-00FF66?style=for-the-badge&logo=tryhackme'" alt="TryHackMe Badge" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Brook-106&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <br/>
