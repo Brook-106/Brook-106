@@ -55,12 +55,32 @@
 
 ### ▱ Security Projects
 
-```text
-┌──(vulnvault)─[~/labs]
-└─$ cat details.txt
-► VulnVault - Web Security Lab [[https://github.com/Brook-106/vulnvault-vulnerable-web-lab](https://github.com/Brook-106/vulnvault-vulnerable-web-lab)]
-  Flask + SQLite application engineered for security analysis, OWASP Top 10 mitigation,
-  and defensive validation (SQLi, XSS, IDOR mitigation).
+* 🧪 **[VulnVault - Web Security Lab](https://github.com/Brook-106/vulnvault-vulnerable-web-lab)**  
+  Flask + SQLite application engineered for security analysis, OWASP Top 10 mitigation, and defensive validation (SQLi, XSS, IDOR mitigation).
 
-► Personal Cyber Portfolio [[https://brook-106.github.io/portfolio/](https://brook-106.github.io/portfolio/)]
+* 🌐 **[Personal Cyber Portfolio](https://brook-106.github.io/portfolio/)**  
   Responsive, security-themed portfolio featuring interactive terminal UI components.
+
+---
+
+### 📊 Security Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brook-106&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brook-106&theme=matrix&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brook-106/Brook-106/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer" width="100%" />
+</p>
