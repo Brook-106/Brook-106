@@ -1,9 +1,11 @@
 name: Latest Cybersecurity News Workflow
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -11,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Pull Cyber Security Feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
