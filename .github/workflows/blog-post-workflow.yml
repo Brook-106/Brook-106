@@ -1,0 +1,20 @@
+name: Latest Cybersecurity News Workflow
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest cyber news
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull Cyber Security Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.feedburner.com/TheHackersNews,https://www.bleepingcomputer.com/feed/"
+          max_post_count: 5
+          comment_tag_name: "CYBER_NEWS"
