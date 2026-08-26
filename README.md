@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Unpatched Calix flaw lets hackers bypass NAT to expose internal devices](https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/)
-- [Hackers target WordPress sites in miniOrange auth bypass attacks](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/)
-- [TikTok reaches $400M settlement with US over COPPA violations](https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/)
-- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
-- [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
+- [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
+- [Hackers abuse npm mirrors to host phishing redirect pages](https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/)
+- [AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes](https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/)
+- [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
+- [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
 <!-- CYBER_NEWS:END -->
 
 ---
