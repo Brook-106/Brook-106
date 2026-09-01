@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
-- [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
-- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
-- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
-- [Anthropic is cutting Claude Code&#39;s current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
+- [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
+- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+- [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+- [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 <!-- CYBER_NEWS:END -->
 
 ---
