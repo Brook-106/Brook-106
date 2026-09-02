@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
-- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
-- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
-- [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
-- [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+- [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
+- [Aesto Health says data breach affects over 9.5 million patients](https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/)
+- [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
+- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
+- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
 <!-- CYBER_NEWS:END -->
 
 ---
