@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
-- [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
-- [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
-- [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
-- [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
+- [Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/)
+- [DoppelCart fraud network uses 119,000 fake shops to steal credit cards](https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/)
+- [The EU CRA&#39;s Real Question: What Shipped, and When Did You Know?](https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/)
+- [Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/)
+- [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
 <!-- CYBER_NEWS:END -->
 
 ---
