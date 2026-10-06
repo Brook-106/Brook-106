@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
-- [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
-- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-- [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
+- [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
+- [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
+- [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
+- [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users&#39; Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+- [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
 <!-- CYBER_NEWS:END -->
 
 ---
