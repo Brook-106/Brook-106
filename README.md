@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
-- [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
-- [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
-- [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
-- [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
+- [Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)
+- [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
+- [Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)
+- [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
+- [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
 <!-- CYBER_NEWS:END -->
 
 ---
