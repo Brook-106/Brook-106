@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Norway fines Microsoft ad firm $9.6 million over Grindr data sharing](https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/)
-- [Yandex confirms service outage as users lose access to cloud files](https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/)
-- [Anthropic takes risky AI tests offline after models breach govt sites](https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/)
-- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-- [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)
+- [OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
+- [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
+- [Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)
+- [Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)
+- [Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)
 <!-- CYBER_NEWS:END -->
 
 ---
