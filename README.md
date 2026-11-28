@@ -55,11 +55,11 @@
 
 ### 📰 Latest Cybersecurity Advisories & News
 <!-- CYBER_NEWS:START -->
-- [Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
-- [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
-- [OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/)
-- [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
-- [NordVPN Black Friday Deal: Get 78% off VPN plans in 2026](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/)
+- [pCloud confirms password manager hack after suspicious login alerts](https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/)
+- [New Boston Scientific data breach exposes personal, medical info](https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/)
+- [Unpatched Cacti zero-day with public PoC gives remote code execution](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/)
+- [Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)
+- [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
 <!-- CYBER_NEWS:END -->
 
 ---
